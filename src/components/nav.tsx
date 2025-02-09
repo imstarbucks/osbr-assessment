@@ -4,7 +4,6 @@ import { motion } from "motion/react";
 import { useState } from "react";
 import InstaIcon from "@assets/icons/instagram-icon.svg";
 import FacebookIcon from "@assets/icons/facebook.svg";
-import { useWindowSize } from "@/hooks/useWindowSize";
 
 const navList: NavListType[] = [
   {
